@@ -1,8 +1,8 @@
 const tracks = [
-  { name: "Léa/LOUISE ATTAQUE", file: "audio/MUSE - Time Is Running Out.mp3", duration: "3:56" },
-  { name: "J'accuse/DAMIEN SAEZ", file: "audio/KINGS OF LEON - Use Somebody.m4a", duration: "3:50" },
-  { name: "Back to black/AMY WHINEHOUSE", file: "audio/RADIOHEAD - Creep (+0,5 ton).mp3", duration: "3:58" },
-  { name: "La grenande/CLARA LUCIANI", file: "audio/MUSE - Plugin baby.mp3", duration: "3:40" },
+  { name: "Léa/LOUISE ATTAQUE", file: "audio/Louise Attaque - Léa.mp3", duration: "3:18" },
+  { name: "J'accuse/DAMIEN SAEZ", file: "audio/Damien Saez - Jaccuse.mp3", duration: "4:28" },
+  { name: "Back to black/AMY WHINEHOUSE", file: "audio/Amy Winehouse - Back To Black.mp3", duration: "4:00" },
+  { name: "La grenande/CLARA LUCIANI", file: "audio/Clara Luciani - La grenade.mp3", duration: "3:14" },
 
    
 ];
